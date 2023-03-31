@@ -16,12 +16,10 @@
 
 ![image](screenshot/zaowanda.jpg) 
 
-#### 早晚券
+#### 早晚猜
 
-美团饿了么外卖平台的联盟，简单的说就是可以在这里拿到一个链接，别人用这个链接下单了，你就可以拿到一定比例的佣金 
-
-拼多多券一样道理，点你链接下单，一样可以获取一定比例佣金
+看图猜成语
 
 扫码预览
 
-![](screenshot/zaowanquan.jpg)
+![](screenshot/zaowancai.jpg)
